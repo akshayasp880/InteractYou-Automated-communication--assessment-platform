@@ -84,7 +84,7 @@ def start_session():
         }), 200
 
     except Exception as e:
-        print(f"❌ Error starting session: {e}")
+        print(f" Error starting session: {e}")
         return jsonify({
             'status': 'error',
             'message': str(e)
