@@ -1,0 +1,24 @@
+{
+    "profanity": [
+        "damn",
+        "hell",
+        "crap",
+        "stupid",
+        "dumb",
+        "idiot",
+        "hate"
+    ],
+    "unprofessional": [
+        "whatever",
+        "anyways",
+        "gonna",
+        "wanna",
+        "kinda",
+        "sorta",
+        "yeah",
+        "nah"
+    ],
+    "discriminatory": [
+        "guys"
+    ]
+}
