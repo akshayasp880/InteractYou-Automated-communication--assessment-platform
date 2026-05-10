@@ -1,0 +1,35 @@
+{
+    "profanity": [
+        "damn",
+        "hell",
+        "crap",
+        "stupid",
+        "dumb",
+        "idiot",
+        "moron",
+        "suck",
+        "sucks",
+        "bullshit",
+        "shit",
+        "fuck",
+        "ass",
+        "bitch"
+    ],
+    "unprofessional": [
+        "whatever",
+        "anyways",
+        "gonna",
+        "wanna",
+        "gotta",
+        "kinda",
+        "sorta",
+        "yeah",
+        "nope",
+        "yep",
+        "dunno",
+        "lemme"
+    ],
+    "discriminatory": [
+        "guys"
+    ]
+}
