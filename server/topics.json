@@ -1,0 +1,518 @@
+{
+    "interview_prep": {
+        "title": "Interview Preparation",
+        "icon": "💼",
+        "subtopics": {
+            "introduce_yourself": {
+                "title": "Introduce Yourself",
+                "points": [
+                    "Start with your name and current role/status",
+                    "Mention your educational background briefly",
+                    "Highlight 2-3 key professional experiences",
+                    "Share your core skills and expertise areas",
+                    "Explain what motivates you professionally",
+                    "Connect your background to this opportunity"
+                ],
+                "keywords": [
+                    "name", "background", "education", "experience", "skills",
+                    "expertise", "career", "professional", "achievement", "qualification",
+                    "degree", "university", "work", "role", "position", "responsibility"
+                ]
+            },
+            "strengths_weaknesses": {
+                "title": "Strengths and Weaknesses",
+                "points": [
+                    "Describe 3 core strengths with specific examples",
+                    "Explain how your strengths add value",
+                    "Share one genuine weakness you're working on",
+                    "Describe concrete steps you're taking to improve",
+                    "Show self-awareness and growth mindset",
+                    "Connect strengths to the job requirements"
+                ],
+                "keywords": [
+                    "strength", "weakness", "skill", "ability", "talent", "proficient",
+                    "improve", "development", "learning", "growth", "challenge",
+                    "overcome", "self-aware", "feedback", "adaptable", "resilient"
+                ]
+            },
+            "past_experience": {
+                "title": "Discuss Past Experience",
+                "points": [
+                    "Use STAR method: Situation, Task, Action, Result",
+                    "Choose relevant examples from your background",
+                    "Quantify achievements with specific metrics",
+                    "Highlight problem-solving and initiative",
+                    "Explain your role and contributions clearly",
+                    "Show impact and lessons learned"
+                ],
+                "keywords": [
+                    "project", "responsibility", "achievement", "result", "impact",
+                    "led", "managed", "developed", "implemented", "delivered",
+                    "improved", "increased", "reduced", "solved", "collaborated"
+                ]
+            },
+            "future_goals": {
+                "title": "Career Goals and Aspirations",
+                "points": [
+                    "Share your 3-5 year career vision",
+                    "Explain how this role fits your goals",
+                    "Discuss skills you want to develop",
+                    "Show ambition balanced with realism",
+                    "Mention industry trends you're following",
+                    "Express commitment to continuous learning"
+                ],
+                "keywords": [
+                    "goal", "aspiration", "future", "career", "growth", "development",
+                    "vision", "ambition", "plan", "objective", "learn", "advance",
+                    "expertise", "leadership", "contribution", "impact", "industry"
+                ]
+            },
+            "company_research": {
+                "title": "Why This Company?",
+                "points": [
+                    "Mention specific company achievements or values",
+                    "Explain what attracts you to the organization",
+                    "Show knowledge of company products/services",
+                    "Discuss company culture alignment",
+                    "Reference recent company news or initiatives",
+                    "Explain how you can contribute to company goals"
+                ],
+                "keywords": [
+                    "company", "organization", "culture", "values", "mission",
+                    "vision", "product", "service", "innovation", "industry",
+                    "leader", "reputation", "growth", "opportunity", "contribute"
+                ]
+            }
+        }
+    },
+    "student": {
+        "title": "Student Topics",
+        "icon": "🎓",
+        "subtopics": {
+            "exam_preparation": {
+                "title": "Exam Preparation Tips",
+                "points": [
+                    "Explain effective study schedule planning",
+                    "Discuss time management strategies",
+                    "Share memory retention techniques",
+                    "Describe stress management during exams",
+                    "Mention resources and study materials",
+                    "Emphasize consistent practice and revision"
+                ],
+                "keywords": [
+                    "study", "exam", "preparation", "revision", "practice", "learning",
+                    "notes", "syllabus", "schedule", "time management", "focus",
+                    "concentration", "memory", "retention", "test", "assessment"
+                ]
+            },
+            "project_presentation": {
+                "title": "Project Presentation",
+                "points": [
+                    "Introduce project title and objectives clearly",
+                    "Explain methodology and approach used",
+                    "Present key findings and results",
+                    "Discuss challenges faced and solutions",
+                    "Highlight innovations or unique aspects",
+                    "Conclude with impact and future scope"
+                ],
+                "keywords": [
+                    "project", "research", "study", "methodology", "analysis",
+                    "findings", "results", "data", "conclusion", "implementation",
+                    "experiment", "hypothesis", "observation", "outcome", "scope"
+                ]
+            },
+            "group_discussion": {
+                "title": "Group Discussion Skills",
+                "points": [
+                    "Present your viewpoint clearly and confidently",
+                    "Support arguments with facts and examples",
+                    "Listen actively to other participants",
+                    "Build on others' ideas constructively",
+                    "Maintain respectful and professional tone",
+                    "Summarize key points when appropriate"
+                ],
+                "keywords": [
+                    "opinion", "viewpoint", "argument", "discussion", "debate",
+                    "perspective", "idea", "suggestion", "agree", "disagree",
+                    "point", "topic", "issue", "analysis", "conclusion", "consensus"
+                ]
+            },
+            "seminar_speech": {
+                "title": "Seminar/Conference Speech",
+                "points": [
+                    "Start with an engaging opening statement",
+                    "State the purpose and agenda clearly",
+                    "Present information in logical sequence",
+                    "Use examples and case studies effectively",
+                    "Engage audience with questions or polls",
+                    "End with clear takeaways and call-to-action"
+                ],
+                "keywords": [
+                    "seminar", "presentation", "audience", "topic", "research",
+                    "findings", "analysis", "information", "knowledge", "insight",
+                    "example", "case study", "data", "conclusion", "recommendation"
+                ]
+            },
+            "scholarship_interview": {
+                "title": "Scholarship Interview",
+                "points": [
+                    "Explain your academic achievements and goals",
+                    "Describe financial need if applicable",
+                    "Share your passion for the field of study",
+                    "Discuss how scholarship will help your education",
+                    "Mention community service or leadership",
+                    "Express gratitude and commitment to excellence"
+                ],
+                "keywords": [
+                    "scholarship", "education", "academic", "achievement", "goal",
+                    "study", "university", "degree", "excellence", "merit",
+                    "financial", "support", "opportunity", "commitment", "future"
+                ]
+            }
+        }
+    },
+    "ai": {
+        "title": "Artificial Intelligence",
+        "icon": "🤖",
+        "subtopics": {
+            "ai_basics": {
+                "title": "AI Fundamentals",
+                "points": [
+                    "Define artificial intelligence and its scope",
+                    "Explain machine learning vs deep learning",
+                    "Discuss types of AI: narrow, general, super AI",
+                    "Describe key AI algorithms and techniques",
+                    "Mention real-world AI applications",
+                    "Address AI capabilities and limitations"
+                ],
+                "keywords": [
+                    "artificial intelligence", "machine learning", "deep learning",
+                    "neural network", "algorithm", "model", "training", "data",
+                    "prediction", "automation", "ai", "ml", "technology", "computer"
+                ]
+            },
+            "ai_ethics": {
+                "title": "AI Ethics and Responsibility",
+                "points": [
+                    "Discuss bias in AI systems and datasets",
+                    "Address privacy concerns with AI",
+                    "Explain transparency and explainability needs",
+                    "Cover accountability in AI decision-making",
+                    "Mention job displacement and societal impact",
+                    "Propose ethical guidelines for AI development"
+                ],
+                "keywords": [
+                    "ethics", "bias", "fairness", "privacy", "transparency",
+                    "accountability", "responsibility", "regulation", "governance",
+                    "trust", "safety", "impact", "society", "rights", "explainability"
+                ]
+            },
+            "ai_applications": {
+                "title": "AI Applications and Use Cases",
+                "points": [
+                    "Healthcare: diagnosis, drug discovery, personalized medicine",
+                    "Finance: fraud detection, trading, risk assessment",
+                    "Transportation: autonomous vehicles, traffic optimization",
+                    "Education: personalized learning, automated grading",
+                    "Business: chatbots, recommendation systems, analytics",
+                    "Discuss emerging applications and future potential"
+                ],
+                "keywords": [
+                    "application", "use case", "healthcare", "finance", "autonomous",
+                    "chatbot", "recommendation", "prediction", "automation",
+                    "optimization", "analytics", "detection", "recognition", "industry"
+                ]
+            },
+            "ai_future": {
+                "title": "Future of AI",
+                "points": [
+                    "Discuss AGI (Artificial General Intelligence) prospects",
+                    "Explore quantum computing and AI convergence",
+                    "Mention AI in climate change and sustainability",
+                    "Address human-AI collaboration models",
+                    "Predict job market transformation",
+                    "Envision AI's role in solving global challenges"
+                ],
+                "keywords": [
+                    "future", "trend", "innovation", "advancement", "development",
+                    "agi", "quantum", "evolution", "transformation", "potential",
+                    "opportunity", "challenge", "breakthrough", "next generation"
+                ]
+            },
+            "ai_career": {
+                "title": "Career in AI/ML",
+                "points": [
+                    "Discuss required skills: programming, math, statistics",
+                    "Mention key tools: Python, TensorFlow, PyTorch",
+                    "Explain different AI career paths and roles",
+                    "Share learning resources and certifications",
+                    "Describe industry demand and opportunities",
+                    "Offer advice for aspiring AI professionals"
+                ],
+                "keywords": [
+                    "career", "job", "skill", "programming", "python", "data science",
+                    "engineer", "researcher", "developer", "analyst", "learning",
+                    "certification", "training", "opportunity", "industry", "salary"
+                ]
+            }
+        }
+    },
+    "finance": {
+        "title": "Finance Topics",
+        "icon": "💰",
+        "subtopics": {
+            "personal_finance": {
+                "title": "Personal Finance Management",
+                "points": [
+                    "Explain budgeting and expense tracking",
+                    "Discuss saving strategies and emergency funds",
+                    "Cover debt management and credit scores",
+                    "Introduce investment basics for beginners",
+                    "Mention insurance and risk protection",
+                    "Emphasize financial goal setting and planning"
+                ],
+                "keywords": [
+                    "budget", "saving", "investment", "debt", "credit", "money",
+                    "finance", "expense", "income", "emergency fund", "financial planning",
+                    "wealth", "retirement", "insurance", "goal", "personal finance"
+                ]
+            },
+            "stock_market": {
+                "title": "Stock Market Basics",
+                "points": [
+                    "Explain how stock markets function",
+                    "Describe stocks, bonds, and mutual funds",
+                    "Discuss market indices and their significance",
+                    "Cover fundamental and technical analysis",
+                    "Mention risk management strategies",
+                    "Share tips for beginner investors"
+                ],
+                "keywords": [
+                    "stock", "market", "share", "investment", "trading", "equity",
+                    "bond", "mutual fund", "portfolio", "index", "nifty", "sensex",
+                    "investor", "dividend", "capital", "risk", "return", "analysis"
+                ]
+            },
+            "cryptocurrency": {
+                "title": "Cryptocurrency and Blockchain",
+                "points": [
+                    "Define cryptocurrency and blockchain technology",
+                    "Explain Bitcoin, Ethereum, and major cryptos",
+                    "Discuss decentralization and security",
+                    "Cover crypto trading and investment risks",
+                    "Mention regulatory landscape and challenges",
+                    "Explore future potential and use cases"
+                ],
+                "keywords": [
+                    "cryptocurrency", "blockchain", "bitcoin", "ethereum", "crypto",
+                    "decentralized", "digital currency", "mining", "wallet", "exchange",
+                    "token", "defi", "smart contract", "nft", "trading", "volatility"
+                ]
+            },
+            "financial_planning": {
+                "title": "Financial Planning Strategies",
+                "points": [
+                    "Assess current financial situation and goals",
+                    "Create short-term and long-term plans",
+                    "Discuss asset allocation strategies",
+                    "Cover tax planning and optimization",
+                    "Plan for major life events and expenses",
+                    "Review and adjust plans periodically"
+                ],
+                "keywords": [
+                    "financial planning", "goal", "strategy", "asset allocation",
+                    "tax", "retirement", "investment", "wealth", "estate planning",
+                    "insurance", "risk", "diversification", "portfolio", "advisor"
+                ]
+            },
+            "business_finance": {
+                "title": "Business Finance Fundamentals",
+                "points": [
+                    "Explain financial statements: balance sheet, P&L, cash flow",
+                    "Discuss working capital management",
+                    "Cover funding options: debt, equity, venture capital",
+                    "Analyze financial ratios and metrics",
+                    "Mention financial forecasting and budgeting",
+                    "Address corporate finance decision-making"
+                ],
+                "keywords": [
+                    "business", "finance", "revenue", "profit", "cash flow",
+                    "balance sheet", "funding", "capital", "investment", "valuation",
+                    "financial statement", "budget", "forecast", "ratio", "corporate"
+                ]
+            }
+        }
+    },
+    "agriculture": {
+        "title": "Agriculture",
+        "icon": "🌾",
+        "subtopics": {
+            "modern_farming": {
+                "title": "Modern Farming Techniques",
+                "points": [
+                    "Discuss precision agriculture and IoT sensors",
+                    "Explain drip irrigation and water conservation",
+                    "Cover organic farming methods and benefits",
+                    "Introduce vertical and hydroponic farming",
+                    "Mention drone technology in agriculture",
+                    "Address sustainable farming practices"
+                ],
+                "keywords": [
+                    "farming", "agriculture", "crop", "irrigation", "technology",
+                    "precision agriculture", "organic", "sustainable", "yield",
+                    "soil", "fertilizer", "pesticide", "cultivation", "harvest"
+                ]
+            },
+            "crop_management": {
+                "title": "Crop Management",
+                "points": [
+                    "Explain crop rotation and soil health",
+                    "Discuss pest and disease management",
+                    "Cover seed selection and planting techniques",
+                    "Mention fertilizer and nutrient management",
+                    "Address weather monitoring and prediction",
+                    "Share best practices for maximum yield"
+                ],
+                "keywords": [
+                    "crop", "management", "soil", "pest", "disease", "seed",
+                    "planting", "fertilizer", "nutrient", "yield", "harvest",
+                    "rotation", "health", "growth", "cultivation", "production"
+                ]
+            },
+            "agri_business": {
+                "title": "Agricultural Business",
+                "points": [
+                    "Discuss farm-to-market supply chains",
+                    "Explain agricultural financing and loans",
+                    "Cover crop insurance and risk management",
+                    "Mention value addition and processing",
+                    "Address market pricing and economics",
+                    "Explore agri-entrepreneurship opportunities"
+                ],
+                "keywords": [
+                    "business", "market", "price", "supply chain", "finance",
+                    "loan", "insurance", "profit", "revenue", "cost", "value",
+                    "processing", "marketing", "sale", "economics", "trade"
+                ]
+            },
+            "sustainable_agriculture": {
+                "title": "Sustainable Agriculture",
+                "points": [
+                    "Define sustainability in agriculture",
+                    "Discuss water conservation methods",
+                    "Cover soil preservation techniques",
+                    "Explain biodiversity and ecosystem balance",
+                    "Mention renewable energy in farming",
+                    "Address climate change adaptation"
+                ],
+                "keywords": [
+                    "sustainable", "sustainability", "conservation", "environment",
+                    "organic", "biodiversity", "ecosystem", "climate", "water",
+                    "soil", "renewable", "green", "eco-friendly", "natural", "ecology"
+                ]
+            },
+            "government_schemes": {
+                "title": "Government Agricultural Schemes",
+                "points": [
+                    "Explain PM-KISAN and direct benefit transfers",
+                    "Discuss crop insurance schemes (PMFBY)",
+                    "Cover Kisan Credit Card benefits",
+                    "Mention soil health card program",
+                    "Address MSP (Minimum Support Price) system",
+                    "Share how to access scheme benefits"
+                ],
+                "keywords": [
+                    "government", "scheme", "subsidy", "loan", "insurance",
+                    "pm-kisan", "support", "benefit", "credit", "policy",
+                    "program", "welfare", "assistance", "msp", "farmer"
+                ]
+            }
+        }
+    },
+    "women": {
+        "title": "Women's Issues",
+        "icon": "👩",
+        "subtopics": {
+            "women_safety": {
+                "title": "Women's Safety",
+                "points": [
+                    "Discuss current safety challenges for women",
+                    "Explain legal rights and protections available",
+                    "Share safety tips and self-defense awareness",
+                    "Mention emergency helplines and resources",
+                    "Address workplace safety and harassment laws",
+                    "Advocate for stronger safety measures"
+                ],
+                "keywords": [
+                    "safety", "security", "protection", "harassment", "violence",
+                    "rights", "law", "legal", "support", "helpline", "emergency",
+                    "self-defense", "awareness", "prevention", "workplace", "public"
+                ]
+            },
+            "women_empowerment": {
+                "title": "Women's Empowerment",
+                "points": [
+                    "Define women's empowerment and its importance",
+                    "Discuss education and skill development",
+                    "Explain economic independence and entrepreneurship",
+                    "Cover political participation and leadership",
+                    "Mention social empowerment and equality",
+                    "Share success stories and role models"
+                ],
+                "keywords": [
+                    "empowerment", "equality", "education", "independence",
+                    "leadership", "entrepreneurship", "opportunity", "rights",
+                    "development", "skill", "economic", "social", "political", "growth"
+                ]
+            },
+            "gender_equality": {
+                "title": "Gender Equality",
+                "points": [
+                    "Explain the concept of gender equality",
+                    "Discuss wage gap and workplace discrimination",
+                    "Address stereotypes and social norms",
+                    "Cover equal opportunities in education and career",
+                    "Mention international frameworks and SDGs",
+                    "Propose solutions for achieving equality"
+                ],
+                "keywords": [
+                    "gender", "equality", "discrimination", "bias", "stereotype",
+                    "wage gap", "opportunity", "rights", "fairness", "justice",
+                    "workplace", "education", "career", "society", "inclusion"
+                ]
+            },
+            "women_health": {
+                "title": "Women's Health",
+                "points": [
+                    "Discuss reproductive health and rights",
+                    "Explain maternal health and care",
+                    "Cover menstrual health and hygiene",
+                    "Address mental health challenges for women",
+                    "Mention nutrition and preventive care",
+                    "Advocate for accessible healthcare services"
+                ],
+                "keywords": [
+                    "health", "healthcare", "reproductive", "maternal", "menstrual",
+                    "mental health", "nutrition", "wellness", "hygiene", "care",
+                    "medical", "doctor", "pregnancy", "awareness", "prevention"
+                ]
+            },
+            "women_leadership": {
+                "title": "Women in Leadership",
+                "points": [
+                    "Discuss barriers to women in leadership roles",
+                    "Share examples of successful women leaders",
+                    "Explain mentorship and networking importance",
+                    "Cover work-life balance challenges",
+                    "Address impostor syndrome and confidence",
+                    "Encourage aspiring women leaders"
+                ],
+                "keywords": [
+                    "leadership", "leader", "management", "executive", "ceo",
+                    "career", "professional", "success", "role model", "mentor",
+                    "network", "confidence", "barrier", "glass ceiling", "opportunity"
+                ]
+            }
+        }
+    }
+}
