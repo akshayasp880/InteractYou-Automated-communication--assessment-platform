@@ -1,10 +1,10 @@
 @echo off
 
 :: Step 1: Open a new terminal and activate the Conda environment for the backend
-start cmd /k "conda activate InteractYou && cd C:\Users\adity\OneDrive\Desktop\Aditya\Final Yr Project\Aditya's Final Year Project\Aditya's Final Year Project\InteractYou\server && python app.py"
+start cmd /k "conda activate InteractYou && cd server && python app.py"
 
 :: Step 2: Open another terminal and navigate to the client directory and run the React app
-start cmd /k "cd C:\Users\adity\OneDrive\Desktop\Aditya\Final Yr Project\Aditya's Final Year Project\Aditya's Final Year Project\InteractYou/client && npm run dev"
+start cmd /k "cd client && npm run dev"
 
 :: Step 3: Wait for 6 seconds
 timeout /t 6 /nobreak

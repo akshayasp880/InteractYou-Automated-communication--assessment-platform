@@ -312,7 +312,7 @@ const confirmLogout = () => {
                     <Code className="w-7 h-7 text-white" />
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg text-[#1A1F36]">Aditya Deshmukh</h4>
+                    <h4 className="font-bold text-lg text-[#1A1F36]">akshayasp880</h4>
                     <p className="text-gray-500 text-sm mt-1 font-medium">Frontend Development (React)</p>
                   </div>
                 </div>
